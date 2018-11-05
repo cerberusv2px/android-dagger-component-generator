@@ -1,0 +1,11 @@
+<template format="4"
+          revision="1"
+          name="DaggerGenerator"
+          description="Creates a new dagger related components, module, provider and scope.">
+
+    <category value="Other"/>
+
+    <globals file="globals.xml.ftl" />
+    <execute file="recipe.xml.ftl" />
+
+</template>
